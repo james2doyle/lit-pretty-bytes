@@ -1,5 +1,5 @@
 exports.name = "james2doyle/pretty-bytes"
-exports.version = "0.0.1"
+exports.version = "0.0.2"
 exports.homepage = "https://github.com/james2doyle/lit-pretty-bytes"
 -- converted from https://github.com/sindresorhus/pretty-bytes
 

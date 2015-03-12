@@ -24,6 +24,9 @@ local prettyBytes = require('pretty-bytes')
 
 print(prettyBytes(1337)) -- prints 1.34kB
 
+-- a byte < 1 example
+print(prettyBytes(0.1337)) -- prints 0.1337 B
+
 -- passing true as last argument adds a single space between number and size
 print(prettyBytes(1337, true)) -- prints 1.34 kB
 
