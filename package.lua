@@ -1,6 +1,6 @@
 return {
-  name = "james2doyle/pretty-bytes"
-  version = "0.0.3"
+  name = "james2doyle/pretty-bytes",
+  version = "0.0.3",
   homepage = "https://github.com/james2doyle/lit-pretty-bytes",
   description = "Get a list of valid text file extensions",
   tags = {
